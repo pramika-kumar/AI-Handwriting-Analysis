@@ -24,7 +24,7 @@ Link to the file containing the labels of the images
 https://drive.google.com/open?id=145xwg20AYiTPeoqPlX18w31xl23szM_M
 
 Link to images (Not all) from the datase
-https://drive.google.com/open?id=12fefRCO8l6U3sjc5rmqsLYOoG3wRCfwX
+https://drive.google.com/drive/folders/12fefRCO8l6U3sjc5rmqsLYOoG3wRCfwX?usp=sharing
 
 Link to folder containing images with single-character for testing
 https://drive.google.com/open?id=1Ut8-9roo1bHi6rafPhavgROXluTf68AU
